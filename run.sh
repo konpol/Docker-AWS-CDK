@@ -1,0 +1,1 @@
+docker run --env-file=aws.config -v /dev/app:/mnt/app -it amazon:dev bash
